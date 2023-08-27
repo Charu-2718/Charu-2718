@@ -21,4 +21,5 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Charu-2718&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Charu-2718&label=Profile%20Views&color=10&icon=0&pretty=false)](https://visitcount.itsvg.in)
+
+<div align="center"><img src="https://komarev.com/ghpvc/?username=Charu-2718&label=Profile%20views&color=0e75b6&style=flat"/>
